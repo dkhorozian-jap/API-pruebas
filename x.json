@@ -1,0 +1,23 @@
+{
+    "Sucursal": 23,
+    "Encargado": "Juana Perez",
+    "Categorias": [
+        {
+            "Nombre": "Lacteos",
+            "Productos":[
+                {
+                    "Nombre": "Leche",
+                    "Cantidad": "1L",
+                    "Precio": 40,
+                    "Moneda": "Peso"
+                },
+                {
+                    "Nombre": "Yogur",
+                    "Cantidad": "250ml",
+                    "Precio": 50,
+                    "Moneda": "Peso"
+                }
+            ]
+        }
+    ]
+}
